@@ -69,7 +69,7 @@ sticky-notes/
 │ │ └── notesApi.ts
 │ ├── types.ts
 │ └── App.css
-
+```
 
 ---
 
@@ -96,7 +96,7 @@ The use of **DTOs** clearly separates API contracts from internal models and mak
 | POST | `/api/notes`        | Create a new note       |
 | PATCH| `/api/notes/{id}`   | Update a note partially |
 | DELETE | `/api/notes/{id}` | Delete a note           |
-
+```
 ---
 
 ## Running the Backend
