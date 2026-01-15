@@ -40,7 +40,7 @@ All notes are persisted via a REST API.
 ## Project Structure
 
 ### Backend
-
+```text
 StickyNotesApi/
 ├── Controllers/
 │ └── NotesController.cs
@@ -88,7 +88,7 @@ The use of **DTOs** clearly separates API contracts from internal models and mak
 ---
 
 ## API Endpoints
-
+```text
 | Method | Endpoint            | Description             |
 |------|---------------------|-------------------------|
 | GET  | `/api/notes`        | Get all notes           |
